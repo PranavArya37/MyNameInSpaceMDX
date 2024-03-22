@@ -1,7 +1,7 @@
 import React from 'react';
 import MainComponent from './components/MainComponent.mdx';
-import Header from "./components/Header"
-import { MDXProvider } from '@mdx-js/react';
+// import Header from "./components/Header"
+// import { MDXProvider } from '@mdx-js/react';
 import Footer from './components/Footer';
 
 const MyReactComponent = () => {
